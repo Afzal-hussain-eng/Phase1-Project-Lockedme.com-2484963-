@@ -12,7 +12,7 @@ public class LockedMeMain {
 				
 				MenuOptions.welcome_Screen("LockedMe", "AfzalHussain M Gadag");
 				
-			//
+			// Print the operation screen
 				Menu_Operation_Handling.welcome_Screen_Inputs();
 		
 	}
