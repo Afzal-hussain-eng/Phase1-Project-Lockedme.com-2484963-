@@ -94,7 +94,7 @@ public class Menu_Operation_Handling {
 					return;
 				case 5:
 					// Exit
-					System.out.println("Program exited successfully.");
+					System.out.println("Program Terminated successfully.");
 					running = false;
 					sc.close();
 					System.exit(0);
