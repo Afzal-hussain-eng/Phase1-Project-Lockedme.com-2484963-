@@ -9,7 +9,7 @@ public class Menu_Operation_Handling {
 		Scanner sc = new Scanner(System.in);
 		do {
 			try {
-				MenuOptions.display_Main_Menu();
+				MenuOptions.Display();
 				int input = sc.nextInt();
 
 				switch (input) {

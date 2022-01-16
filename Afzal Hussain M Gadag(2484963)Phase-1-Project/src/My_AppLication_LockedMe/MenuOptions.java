@@ -20,7 +20,7 @@ public class MenuOptions {
 		System.out.println(ApplicationDetails);
 
 		System.out.println(ApplicationFunctionality);}
-	public static void display_Main_Menu() {
+	public static void Display() {
 		String menu = "\n\nSelect the operation that you want to perform........ \n\n"
 				+ "1. Display menu for File operations\n"
 				+ "2. Retrieve all files inside \"LockedMe_main\" folder\n" 
