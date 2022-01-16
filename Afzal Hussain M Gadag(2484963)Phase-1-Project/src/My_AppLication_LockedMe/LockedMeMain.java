@@ -11,10 +11,7 @@ public class LockedMeMain {
 			// Print the welcome screen in the console
 				
 				MenuOptions.welcome_Screen("LockedMe", "AfzalHussain M Gadag");
-				
-			// Print the operation screen
-				Menu_Operation_Handling.welcome_Screen_Inputs();
-		
+			
 	}
 
 }
