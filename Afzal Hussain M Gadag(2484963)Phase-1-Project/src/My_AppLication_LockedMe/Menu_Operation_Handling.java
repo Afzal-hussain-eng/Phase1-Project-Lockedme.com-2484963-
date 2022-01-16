@@ -14,10 +14,10 @@ public class Menu_Operation_Handling {
 
 				switch (input) {
 				case 1:
-					Business_Level_Operations.display_Files("LockedMe_main");
+					Menu_Operation_Handling.menu_Operation_Handling();
 					break;
 				case 2:
-					Menu_Operation_Handling.menu_Operation_Handling();
+					Business_Level_Operations.display_Files("LockedMe_main");
 					break;
 				case 3:
 					System.out.println("Program exited successfully.");

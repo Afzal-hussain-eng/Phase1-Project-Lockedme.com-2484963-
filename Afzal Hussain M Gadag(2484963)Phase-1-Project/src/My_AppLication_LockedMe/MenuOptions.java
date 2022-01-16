@@ -22,8 +22,8 @@ public class MenuOptions {
 		System.out.println(ApplicationFunctionality);}
 	public static void display_Main_Menu() {
 		String menu = "\n\nSelect the operation that you want to perform........ \n\n"
-				+ "1. Retrieve all files inside \"LockedMe_main\" folder\n" 
-				+ "2. Display menu for File operations\n"
+				+ "1. Display menu for File operations\n"
+				+ "2. Retrieve all files inside \"LockedMe_main\" folder\n" 
 				+ "3. Exit from the program \'XXX...EXIT...XXX\'\n"
 				+"________________________________________________________________________________________\n\n";
 		System.out.println(menu);
